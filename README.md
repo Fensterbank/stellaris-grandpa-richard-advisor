@@ -14,6 +14,8 @@ The advisor is never automatically selected by empire authorities but it can be 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=686497648]Children of God Empire[/url]
 [/b]
 
+[img]https://i.imgur.com/EEVrGqY.gif[/img]
+
 ## German Description
 
 Diese Mod fügt Grandpa Richard als Beraterstimme dem Beraterauswahlmenü hinzu.
@@ -27,6 +29,9 @@ Die Beraterstimme wird niemals aufgrund der Autoritäten eines Volkes automatisc
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=686497648]Children of God Empire[/url]
 [/b]
 
+Und wenn dir diese Mod wirklich gefällt, wäre ich unglaublich glücklich, wenn du das durch Verwendung dieser Buttons bestätigen würdest.
+[img]https://i.imgur.com/EEVrGqY.gif[/img]
+
 ## French Description
 
 Ce mod ajoute une voix de consultante allemande au menu de sélection des consultants.
@@ -39,3 +44,5 @@ La voix du conseiller n'est jamais automatiquement sélectionnée sur la base de
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1240613464]Nina - Female German Robotic Advisor Voice[/url]
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=686497648]Children of God Empire[/url]
 [/b]
+
+[img]https://i.imgur.com/EEVrGqY.gif[/img]
