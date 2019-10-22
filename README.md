@@ -46,3 +46,13 @@ La voix du conseiller n'est jamais automatiquement sélectionnée sur la base de
 [/b]
 
 [img]https://i.imgur.com/EEVrGqY.gif[/img]
+
+## Paradox Description
+
+This mod adds a Grandpa Richard as voice in the advisor selection screen.
+It's an old wise amerian english speaking advisor.
+The advisor contains 63 notification messages.
+
+The advisor is never automatically selected by empire authorities but it can be chosen at any time in the advisor configuration.
+
+Feel free to watch the sample on YouTube: https://www.youtube.com/watch?v=QBiLWSbRxMg
