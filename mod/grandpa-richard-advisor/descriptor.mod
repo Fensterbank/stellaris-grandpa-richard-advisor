@@ -1,5 +1,4 @@
 name="Grandpa Richard - Advisor Voice"
-archive="grandpa-richard-advisor.zip"
 tags={
     "Sound"
     "Translation"
