@@ -1,6 +1,26 @@
 # Grandpa Richard - American English Advisor Voice
 A stellaris mod adding a advisor voice.
 
+## Important
+
+The ZIP files for Paradox Mods should contain a descriptor.mod file which must not have a path line in it.
+
+The order of the keys in the descriptor files is relevant.
+
+```
+name="Nina - Female German Advisor Voice"
+tags={
+  "Sound"
+  "Translation"
+}
+picture="portrait.png"
+remote_file_id="1177445474"
+supported_version="2.5.*"
+```
+
+If the mod is uploaded to the Steam Workshop, the line `path` must be included in this file in the line between name and tags.
+Before deployment to Steam, the `path` value from `/mod/mod-name.mod` have to be copied into `/mod/mod-name/descriptor.mod`.
+
 ## English Description
 
 This mod adds a Grandpa Richard as voice in the advisor selection screen.
