@@ -74,7 +74,7 @@ soundgroup =
 	
   soundeffectoverrides =
 	{
-		advisor_notification_alien_empire_communication_01 = nina_robotic_advisor_notification_alien_empire_communication
+		advisor_notification_alien_empire_communication_01 = grandpa_richard_advisor_notification_alien_empire_communication
     advisor_notification_debris_analysed = grandpa_richard_advisor_notification_debris_analysed
     advisor_notification_system_survey_complete = grandpa_richard_advisor_notification_system_survey_complete
     advisor_notification_research_complete = grandpa_richard_advisor_notification_research_complete
